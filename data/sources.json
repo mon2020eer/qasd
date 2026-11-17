@@ -1,0 +1,117 @@
+{
+  "title": "مصادر تفسير الأحلام في التراث الإسلامي",
+  "as_of": "2026-11-17",
+  "legend": {
+    "status": "مطبوع | مخطوط | مفقود (منقول عنه) | منسوب",
+    "verified": "true: فُتحت صفحة الرابط وطوبقت بياناتها. false: البيانات من المراجع المعروفة ولم يُفتح لها رابط، فتحقّق منها قبل الاعتماد"
+  },
+  "categories": [
+    {
+      "id": "usul",
+      "name": "الأصول: كتب الحديث (كتاب التعبير/الرؤيا)",
+      "items": [
+        {"title": "صحيح البخاري: كتاب التعبير", "author": "محمد بن إسماعيل البخاري", "death_hijri": 256, "status": "مطبوع", "links": ["https://sunnah.com/bukhari/91"], "verified": false},
+        {"title": "صحيح مسلم: كتاب الرؤيا", "author": "مسلم بن الحجاج", "death_hijri": 261, "status": "مطبوع", "links": ["https://sunnah.com/muslim/42"], "verified": false},
+        {"title": "موطأ مالك: كتاب الرؤيا", "author": "مالك بن أنس", "death_hijri": 179, "status": "مطبوع", "links": ["https://sunnah.com/malik/52"], "verified": false},
+        {"title": "جامع الترمذي: أبواب الرؤيا", "author": "محمد بن عيسى الترمذي", "death_hijri": 279, "status": "مطبوع", "links": ["https://sunnah.com/tirmidhi/34"], "verified": false},
+        {"title": "سنن ابن ماجه: كتاب تعبير الرؤيا", "author": "ابن ماجه", "death_hijri": 273, "status": "مطبوع", "links": ["https://sunnah.com/ibnmajah/35"], "verified": false},
+        {"title": "سنن أبي داود: كتاب الأدب، باب ما جاء في الرؤيا", "author": "أبو داود السجستاني", "death_hijri": 275, "status": "مطبوع", "links": ["https://sunnah.com/abudawud/43"], "verified": false},
+        {"title": "سنن الدارمي: كتاب الرؤيا", "author": "عبد الله بن عبد الرحمن الدارمي", "death_hijri": 255, "status": "مطبوع", "edition": "دار المغني، تحقيق حسين سليم أسد", "links": [], "verified": false},
+        {"title": "مصنف ابن أبي شيبة: كتاب الإيمان والرؤيا", "author": "ابن أبي شيبة", "death_hijri": 235, "status": "مطبوع", "notes": "آثار الصحابة والتابعين في التعبير", "links": ["https://hadithunlocked.com/ibnabishaybah/29"], "verified": false},
+        {"title": "مصنف عبد الرزاق (الجامع لمعمر): أبواب الرؤيا", "author": "عبد الرزاق الصنعاني", "death_hijri": 211, "status": "مطبوع", "edition": "المكتب الإسلامي، تحقيق الأعظمي", "links": [], "verified": false},
+        {"title": "الأحكام الشرعية الكبرى: كتاب تعبير الرؤيا", "author": "عبد الحق الإشبيلي", "death_hijri": 581, "status": "مطبوع", "notes": "جمع أحاديث الرؤيا من الكتب الستة", "links": ["https://ar.wikisource.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89/%D9%83%D8%AA%D8%A7%D8%A8_%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1_%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A7"], "verified": true},
+        {"title": "فتح الباري شرح صحيح البخاري (شرح كتاب التعبير، المجلد 12)", "author": "ابن حجر العسقلاني", "death_hijri": 852, "status": "مطبوع", "notes": "أوسع شرح لضوابط التعبير، وينقل عن كتب مفقودة كالقيرواني", "links": [], "verified": false},
+        {"title": "المنهاج شرح صحيح مسلم (كتاب الرؤيا)", "author": "يحيى بن شرف النووي", "death_hijri": 676, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "شرح السنة (كتاب الرؤيا)", "author": "الحسين بن مسعود البغوي", "death_hijri": 516, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "التمهيد والاستذكار (كتاب الرؤيا من الموطأ)", "author": "ابن عبد البر", "death_hijri": 463, "status": "مطبوع", "links": [], "verified": false}
+      ]
+    },
+    {
+      "id": "classical_printed",
+      "name": "كتب التعبير الكلاسيكية المطبوعة",
+      "items": [
+        {"title": "تعبير الرؤيا", "author": "عبد الله بن مسلم بن قتيبة الدينوري", "death_hijri": 276, "status": "مطبوع", "edition": "تحقيق إبراهيم صالح، دار البشائر، دمشق", "notes": "أقدم كتاب تعبير عربي وصلنا جزء منه، يقدّم الأصول والقواعد قبل الرموز", "links": [], "verified": false},
+        {"title": "المنامات", "author": "ابن أبي الدنيا", "death_hijri": 281, "status": "مطبوع", "edition": "تحقيق عبد القادر أحمد عطا، مؤسسة الكتب الثقافية، بيروت، ط1 1413هـ/1993م (ضمن موسوعة رسائل ابن أبي الدنيا)", "notes": "مرويات مسندة لمنامات السلف ورؤى الموتى، ليست معجم رموز", "links": ["https://shamela.ws/book/13070"], "verified": true},
+        {"title": "القادري في التعبير (كتاب التعبير في الرؤيا)", "author": "أبو سعد نصر بن يعقوب الدينوري", "death_hijri": "بعد 397", "status": "مطبوع", "edition": "تحقيق فهمي سعد، عالم الكتب، بيروت", "notes": "ألّفه للخليفة القادر بالله سنة 397هـ، وينقل عن الكرماني ودانيال وغيرهما، من أهم الكتب المنهجية", "links": ["https://ci.nii.ac.jp/ncid/BB22630240"], "verified": false},
+        {"title": "البشارة والنذارة في تعبير الرؤيا", "author": "أبو سعد عبد الملك بن محمد الخركوشي النيسابوري", "death_hijri": 407, "status": "مطبوع", "edition": "تحقيق بلال الأرفه لي ولينا الجمّال، مركز أبوظبي للغة العربية، سلسلة البصائر (نحو 2023)", "notes": "أول نشرة علمية له؛ طُبع مرارا منسوبا لابن سيرين منذ طبعة بولاق 1867م", "links": ["https://www.diwanalarab.com/%D8%A7%D9%84%D8%A8%D8%B4%D8%A7%D8%B1%D8%A9-61657"], "verified": true},
+        {"title": "منتخب الكلام في تفسير الأحلام (المشهور بتفسير الأحلام لابن سيرين)", "author": "منسوب إلى محمد بن سيرين", "death_hijri": 110, "status": "منسوب", "edition": "شركة مكتبة ومطبعة مصطفى البابي الحلبي، 1359هـ/1940م، مجلدان", "notes": "الشاملة نفسها تنص على أن نسبته لابن سيرين لا تصح؛ ابن سيرين معبّر مشهور لكنه لم يؤلف كتابا", "links": ["https://shamela.ws/book/21615", "https://archive.org/details/2_20230417_20230417_1821/"], "verified": true},
+        {"title": "الإشارات في علم العبارات", "author": "غرس الدين خليل بن شاهين الظاهري", "death_hijri": 873, "status": "مطبوع", "edition": "دار الفكر، بيروت (موافق للمطبوع)؛ وطُبع بهامش تعطير الأنام، مطبعة الاستقامة 1384هـ", "notes": "مرتب على 80 بابا بحسب المرئي، وفيه مقدمة مفيدة في آداب المعبّر", "links": ["https://shamela.ws/book/9968", "https://ketabonline.com/ar/books/7006"], "verified": true},
+        {"title": "تعطير الأنام في تعبير المنام", "author": "عبد الغني بن إسماعيل النابلسي", "death_hijri": 1143, "status": "مطبوع", "edition": "دار الفكر، بيروت؛ وطبعة مطبعة الاستقامة بالقاهرة 1384هـ مع منتخب الكلام والإشارات بهامشه", "notes": "مرتب على حروف المعجم، جمع فيه من ابن سيرين المنسوب والكرماني وابن شاهين وغيرهم", "links": ["https://shamela.ws/book/1217", "https://archive.org/details/2_20230417_20230417_1821/"], "verified": true},
+        {"title": "جامع تفاسير الأحلام = تنبيه الأفهام بتأويل الأحلام", "author": "أبو بكر بن محمد بن عمر الملا الحنفي الأحسائي", "death_hijri": 1270, "status": "مطبوع", "edition": "دار الثقافة، الدوحة، ط1 1408هـ/1988م", "links": ["https://shamela.ws/book/10652"], "verified": true},
+        {"title": "البدر المنير في علم التعبير", "author": "شهاب الدين أحمد بن عبد الرحمن المقدسي الحنبلي العابر", "death_hijri": 697, "status": "مطبوع (تحقق من النشرة)", "notes": "ذكره حاجي خليفة بقوله (البدر المنير وشروحه للحنبلي)، ومنظوم في التعبير", "links": [], "verified": false},
+        {"title": "كامل التعبير (بالفارسية)", "author": "حبيش بن إبراهيم التفليسي", "death_hijri": 629, "status": "مطبوع", "notes": "أشهر كتاب تعبير فارسي، ومصدر لكثير من التعبيرنامات العثمانية", "links": [], "verified": false}
+      ]
+    },
+    {
+      "id": "manuscripts_lost",
+      "name": "المخطوطات والمفقود والمنسوب",
+      "items": [
+        {"title": "تعبير المنام (مرتب على الحروف)", "author": "ابن غنام، إبراهيم بن يحيى (أبو طاهر الحنبلي المعبّر)", "death_hijri": 693, "status": "مخطوط", "edition": "جامعة برنستون، مجموعة جاريت رقم 543H، نسخة 1575م (مصر)", "notes": "يذكره حاجي خليفة باسم (تعبير نامج) لأبي طاهر إبراهيم بن يحيى الحنبلي ت 693هـ", "links": ["https://digital-collections.princeton.edu/i/تعبير-المنام/item/3ded731a-3ade-4d0b-8659-8e6700ce7773/viewer/8"], "verified": true},
+        {"title": "الإشارة إلى علم العبارة", "author": "أبو عبد الله السالمي", "death_hijri": 800, "status": "مخطوط", "edition": "مكتبة الجامعة الأردنية (صورة مخطوطة)", "links": ["https://usul.ai/es/t/al-ishara-ila-ilm-al-ibara/27"], "verified": true},
+        {"title": "الألفية الوردية في تعبير الرؤيا (منظومة)", "author": "زين الدين عمر بن المظفر ابن الوردي", "death_hijri": 749, "status": "مخطوط", "edition": "جامعة برنستون، جاريت رقم 167L، نسخة 1516م، ناقصة الأول", "links": ["https://digital-collections.princeton.edu/i/الالفية-الوردية-في-تعبير-الرؤيا/item/cb49b3de-d07b-47b8-aa7a-7595a7d7d468"], "verified": true},
+        {"title": "خلاصة التعبير", "author": "منسوب إلى ابن سينا", "death_hijri": 428, "status": "مخطوط (منسوب)", "edition": "جامعة برنستون، جاريت رقم 180B، نسخة نحو 1486م، ناقصة", "links": ["https://digital-collections.princeton.edu/i/كتاب-خلاصة-التعبير-من-تصانيف/item/be28ec8c-2d6d-411e-9161-41d0f4e80405/viewer/6"], "verified": true},
+        {"title": "كتاب تعبير الرؤيا (نسخة مالية)", "author": "منسوب إلى ابن سيرين", "death_hijri": 110, "status": "مخطوط (منسوب)", "edition": "مكتبة مخطوطات جنّي، مالي، EAP879/55/41، نسخة 1770م", "links": ["https://eap.bl.uk/archive-file/EAP879-55-41"], "verified": true},
+        {"title": "التعبير المنيف والتأويل الشريف", "author": "محمد بن قطب الدين الرومي الأزنيقي", "death_hijri": 885, "status": "مخطوط", "notes": "ذكره حاجي خليفة في كشف الظنون", "links": [], "verified": false},
+        {"title": "الممتع في التعبير", "author": "ابن أبي طالب القيرواني", "death_hijri": null, "status": "مفقود (منقول عنه)", "notes": "ينقل عنه ابن حجر في فتح الباري", "links": [], "verified": false},
+        {"title": "كتاب التعبير", "author": "إبراهيم بن عبد الله الكرماني", "death_hijri": "ق2", "status": "مفقود (منقول عنه)", "notes": "من أقدم المعبّرين، نقل عنه الدينوري والنابلسي كثيرا", "links": [], "verified": false},
+        {"title": "الإرشاد في التعبير", "author": "جابر المغربي", "death_hijri": null, "status": "مفقود (منقول عنه)", "notes": "ذكره حاجي خليفة، ونقل عنه المعبّرون", "links": [], "verified": false},
+        {"title": "أصول دانيال", "author": "منسوب إلى النبي دانيال", "death_hijri": null, "status": "منسوب", "notes": "مادة إسرائيلية قديمة يكثر النقل عنها، ولا يُعتمد عليها", "links": [], "verified": false},
+        {"title": "بيان التعبير", "author": "عبدوس", "death_hijri": null, "status": "مفقود", "notes": "ذكره حاجي خليفة", "links": [], "verified": false}
+      ]
+    },
+    {
+      "id": "scholars_remarks",
+      "name": "مباحث الرؤيا في كتب العلماء (غير كتب التعبير)",
+      "items": [
+        {"title": "إعلام الموقعين (فصل: تعبير الرؤيا من باب القياس والاعتبار، مع أمثلة)", "author": "ابن قيم الجوزية", "death_hijri": 751, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "زاد المعاد، والروح (رؤى الموتى)، ومدارج السالكين", "author": "ابن قيم الجوزية", "death_hijri": 751, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "مجموع الفتاوى (مواضع في الرؤيا وحجيتها)", "author": "ابن تيمية", "death_hijri": 728, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "المقدمة: فصل علم تعبير الرؤيا", "author": "عبد الرحمن بن خلدون", "death_hijri": 808, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "الاعتصام والموافقات (الرؤيا لا يثبت بها حكم شرعي)", "author": "أبو إسحاق الشاطبي", "death_hijri": 790, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "إرشاد الفحول (حجية الرؤيا)", "author": "محمد بن علي الشوكاني", "death_hijri": 1250, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "آكام المرجان في أحكام الجان (مباحث الحلم من الشيطان)", "author": "بدر الدين الشبلي الدمشقي", "death_hijri": 769, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "كشف الظنون (مدخل علم تعبير الرؤيا: فهرس بالكتب)", "author": "حاجي خليفة", "death_hijri": 1067, "status": "مطبوع", "notes": "أهم فهرس قديم لكتب التعبير", "links": [], "verified": false},
+        {"title": "مفتاح السعادة، وأبجد العلوم (مدخل علم التعبير)", "author": "طاش كبري زاده (ت 968)، وصديق حسن خان (ت 1307)", "death_hijri": 968, "status": "مطبوع", "links": [], "verified": false}
+      ]
+    },
+    {
+      "id": "contemporary",
+      "name": "الكتب المعاصرة في التأصيل والضوابط",
+      "items": [
+        {"title": "الرؤى عند أهل السنة والجماعة والمخالفين", "author": "سهل بن رفاع العتيبي", "death_hijri": null, "status": "مطبوع", "edition": "دار كنوز إشبيليا، 507 ص؛ أصله رسالة ماجستير، جامعة الإمام 1415هـ", "links": ["https://shamela.ws/author/2715"], "verified": true},
+        {"title": "ضوابط الرؤيا", "author": "د. محمد بن فهد الودعان", "death_hijri": null, "status": "مطبوع", "notes": "يجمع 72 ضابطا في التعبير", "links": [], "verified": false},
+        {"title": "مقالات في الرؤى", "author": "د. محمد بن فهد الودعان", "death_hijri": null, "status": "رقمي", "edition": "مكتبة الألوكة 1434هـ، 79 ص", "links": ["https://www.alukah.net/sharia/8011/48668/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%b1%d8%a4%d9%89-PDF/"], "verified": true},
+        {"title": "الشذا والعبير بفوائد من أحاديث التعبير (ج1)", "author": "د. إبراهيم بن فهد الودعان", "death_hijri": null, "status": "رقمي", "edition": "1437هـ", "links": ["https://saaid.org/book/20/14508.pdf"], "verified": true},
+        {"title": "اللمع في ضبط أصول تأويل الرؤى", "author": "عبد الرحيم أبو ميمونة", "death_hijri": null, "status": "رقمي", "links": ["https://saaid.org/book/18/9596.pdf"], "verified": true},
+        {"title": "تأملات في رؤيا يوسف عليه السلام", "author": "أحمد عبد العزيز قشوع", "death_hijri": null, "status": "مطبوع", "edition": "ط1 1435هـ، توزيع الجريسي، 193 ص", "links": ["https://shamela.ws/book/109"], "verified": true},
+        {"title": "الرؤيا", "author": "حمود بن عبد الله التويجري", "death_hijri": 1413, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "أحكام تفسير الرؤى والأحلام في القرآن الكريم والسنة المطهرة", "author": "أسامة العوضي", "death_hijri": null, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "الرؤى والأحلام في سيرة خير الأنام", "author": "عبد الرحمن النجدي", "death_hijri": null, "status": "مطبوع", "links": [], "verified": false},
+        {"title": "رؤيا الأنبياء والصالحين", "author": "عبد المنعم الهاشمي", "death_hijri": null, "status": "مطبوع", "links": [], "verified": false}
+      ]
+    },
+    {
+      "id": "academic",
+      "name": "دراسات أكاديمية",
+      "items": [
+        {"title": "حقائق الرؤى وضوابط تفسيرها وفق الأدلة الشرعية", "author": "د. عمر أبو المجد النعيمي", "status": "بحث محكّم", "edition": "مجلة العلوم الشرعية، جامعة القصيم، مج8 ع2، 1436هـ/2015م، ص637-691", "links": ["https://jiss.qu.edu.sa/index.php/jiss/article/download/595/861/1809"], "verified": true},
+        {"title": "تعبير الرؤيا بين الفراسة والدراسة", "author": "ثاقبة الدهمي، ود. عبد الرؤوف محمود (جامعة الوصل، دبي)", "status": "بحث محكّم", "edition": "2022م", "links": ["https://jocr.journals.ekb.eg/article_242569_1c55c1a8020e7e51e571268ab98603ea.pdf"], "verified": true},
+        {"title": "The Early Muslim Tradition of Dream Interpretation", "author": "John C. Lamoreaux", "status": "كتاب", "edition": "SUNY Press, 2002", "notes": "أهم دراسة غربية لنشأة علم التعبير ونقد نسبة الكتب", "links": [], "verified": false},
+        {"title": "La divination arabe", "author": "Toufic Fahd", "status": "كتاب", "edition": "Leiden: Brill, 1966", "notes": "فيه فهرس واسع لكتب التعبير العربية المخطوطة", "links": [], "verified": false},
+        {"title": "Morality in the Guise of Dreams (تحقيق كتاب المنامات لابن أبي الدنيا)", "author": "Leah Kinberg", "status": "كتاب", "edition": "Leiden: Brill, 1994", "links": [], "verified": false}
+      ]
+    }
+  ],
+  "digital_libraries": [
+    {"name": "المكتبة الشاملة", "url": "https://shamela.ws"},
+    {"name": "أرشيف الإنترنت", "url": "https://archive.org"},
+    {"name": "المكتبة الوقفية", "url": "https://waqfeya.net"},
+    {"name": "كتاب أونلاين", "url": "https://ketabonline.com"},
+    {"name": "صيد الفوائد", "url": "https://saaid.org"},
+    {"name": "مكتبة الألوكة", "url": "https://www.alukah.net/library/"},
+    {"name": "مجموعات برنستون الرقمية (مخطوطات)", "url": "https://digital-collections.princeton.edu"},
+    {"name": "مشروع المحفوظات المهددة بالمكتبة البريطانية", "url": "https://eap.bl.uk"},
+    {"name": "مكتبة قطر الرقمية", "url": "https://www.qdl.qa"},
+    {"name": "مشروع OpenITI للنصوص العربية", "url": "https://github.com/OpenITI"}
+  ]
+}
